@@ -1,0 +1,15 @@
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/bin/Debug/net5.0/MyApp.deps.json
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.json
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.dev.json
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/bin/Debug/net5.0/MyApp.dll
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/bin/Debug/net5.0/ref/MyApp.dll
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/bin/Debug/net5.0/MyApp.pdb
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.csproj.AssemblyReference.cache
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfoInputs.cache
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfo.cs
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.dll
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/ref/MyApp.dll
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.pdb
+/Users/MichaelHieuTran/Documents/ITU/3. Semester/Analyse, Design og software arkitektur/CSharp Lecture 1/MyApp/obj/Debug/net5.0/MyApp.genruntimeconfig.cache

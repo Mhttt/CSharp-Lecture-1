@@ -9,7 +9,7 @@ namespace MyApp.Tests
         [Fact]
         public void isLeapYear()
         {
-            Assert.Equal(true, Program.IsLeapYear(4);
+            Assert.Equal(true, Program.IsLeapYear(4));
         }
 
         [Fact]
@@ -20,7 +20,7 @@ namespace MyApp.Tests
 
         [Fact]
         public void isNotLeapYear1700() {
-            Assert.Equal(false, Program.IsLeapYear(1700);
+            Assert.Equal(false, Program.IsLeapYear(1700));
         }
 
         [Fact]
